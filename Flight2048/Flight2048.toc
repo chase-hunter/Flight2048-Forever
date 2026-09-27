@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Flight 2048
+## Notes: Play 2048 while you ride a flight path. Opens automatically when you take a flight.
+## Author: chase
+## Version: 1.0.1
+## X-Website: https://github.com/chase-hunter/Flight2048-Forever
+## IconTexture: Interface\Icons\Ability_Mount_Gryphon_01
+## SavedVariables: Flight2048DB
+
+Flight2048.lua
