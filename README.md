@@ -5,7 +5,7 @@
 Flight 2048 is a World of Warcraft add-on for the WoW Forever client. When you take a flight path, a 2048 window opens in the classic WoW dialog style. It closes again when you land, and your game is saved for your next flight.
 
 
-![Flight 2048 in game](flight2048.png)
+![Flight 2048 in game]([flight2048.png](https://github.com/chase-hunter/Flight2048-Forever/blob/main/photos/flight2048.png?raw=true))
 
 ## Features
 
